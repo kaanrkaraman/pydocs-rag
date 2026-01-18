@@ -1,0 +1,20 @@
+{"query_id": "q001", "query": "How do I create a Python list?", "expected_doc_ids": ["lists"], "tags": ["basics"]}
+{"query_id": "q002", "query": "What is a decorator in Python?", "expected_doc_ids": ["decorators", "glossary"], "tags": ["intermediate"]}
+{"query_id": "q003", "query": "How do I handle exceptions?", "expected_doc_ids": ["errors", "exceptions"], "tags": ["basics"]}
+{"query_id": "q004", "query": "What is the difference between a list and a tuple?", "expected_doc_ids": ["datastructures"], "tags": ["basics"]}
+{"query_id": "q005", "query": "How do I read a file in Python?", "expected_doc_ids": ["io", "tutorial"], "tags": ["basics"]}
+{"query_id": "q006", "query": "What is a generator?", "expected_doc_ids": ["generators", "glossary"], "tags": ["intermediate"]}
+{"query_id": "q007", "query": "How do I use async/await?", "expected_doc_ids": ["asyncio"], "tags": ["advanced"]}
+{"query_id": "q008", "query": "What is the GIL?", "expected_doc_ids": ["glossary", "threading"], "tags": ["advanced"]}
+{"query_id": "q009", "query": "How do I install packages with pip?", "expected_doc_ids": ["installing"], "tags": ["basics"]}
+{"query_id": "q010", "query": "What is a context manager?", "expected_doc_ids": ["contextlib", "with"], "tags": ["intermediate"]}
+{"query_id": "q011", "query": "How do I use regular expressions?", "expected_doc_ids": ["re"], "tags": ["intermediate"]}
+{"query_id": "q012", "query": "What is __init__.py for?", "expected_doc_ids": ["modules", "packages"], "tags": ["basics"]}
+{"query_id": "q013", "query": "How do I create a class?", "expected_doc_ids": ["classes"], "tags": ["basics"]}
+{"query_id": "q014", "query": "What is inheritance in Python?", "expected_doc_ids": ["classes"], "tags": ["intermediate"]}
+{"query_id": "q015", "query": "How do I use lambda functions?", "expected_doc_ids": ["expressions", "tutorial"], "tags": ["intermediate"]}
+{"query_id": "q016", "query": "What is list comprehension?", "expected_doc_ids": ["datastructures"], "tags": ["intermediate"]}
+{"query_id": "q017", "query": "How do I use the logging module?", "expected_doc_ids": ["logging"], "tags": ["intermediate"]}
+{"query_id": "q018", "query": "What is PEP 8?", "expected_doc_ids": ["pep-0008"], "tags": ["style"]}
+{"query_id": "q019", "query": "How do I use type hints?", "expected_doc_ids": ["typing"], "tags": ["intermediate"]}
+{"query_id": "q020", "query": "What is the difference between == and is?", "expected_doc_ids": ["expressions", "comparisons"], "tags": ["basics"]}
